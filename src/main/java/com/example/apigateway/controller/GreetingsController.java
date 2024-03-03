@@ -18,5 +18,5 @@ public class GreetingsController {
             String name) {
         return new Greeting(counter.incrementAndGet(),String.format(template,name));
     }
-
+// dont forget install kafka
 }
