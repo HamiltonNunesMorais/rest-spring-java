@@ -17,23 +17,23 @@ A API fornece operações matemáticas básicas via endpoints HTTP e possui docu
 
 ## ⚙️ Como executar:
 
-1. Clone o repositório:
+1. Clone o repositório
    ```bash
    git clone https://github.com/seu-usuario/api-gateway.git
    ```
-2. Entre na pasta do projeto:
+2. Entre na pasta do projeto
    ```bash
-  cd api-gateway
+   cd api-gateway
    ```
-3. Compile e rode:
+3. Compile e rode
    ```bash
-  mvn clean install
-  mvn spring-boot:run
-  ```
-4. A aplicação estará disponível em:
+   mvn clean install
+   mvn spring-boot:run
+   ```
+4. A aplicação estará disponível em
    ```bash
-  http://localhost:8080
-  ```
+   http://localhost:8080
+   ```    
 ## Endpoints disponíveis
 
 | Operação       | Método | Endpoint                       | Exemplo de uso     | Resultado |
