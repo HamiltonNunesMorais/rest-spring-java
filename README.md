@@ -1,4 +1,4 @@
-# 📐 REST API - Operações Matemáticas
+# REST API - Operações Matemáticas
 
 Este projeto é uma **REST API** desenvolvida em **Java 17** com **Spring Boot 3.2.3**.  
 A API fornece operações matemáticas básicas via endpoints HTTP e possui documentação interativa via **Swagger UI**.
@@ -15,7 +15,7 @@ A API fornece operações matemáticas básicas via endpoints HTTP e possui docu
 
 ---
 
-## ⚙️ Como executar:
+## Como executar:
 
 1. Clone o repositório
    ```bash
